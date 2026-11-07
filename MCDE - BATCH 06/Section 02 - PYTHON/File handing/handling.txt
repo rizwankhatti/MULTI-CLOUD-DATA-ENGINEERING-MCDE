@@ -1,2 +1,4 @@
 welcome to the data engineering domain
+sql ki practice karo leetcode pr
+python ki bhi practice karo leetcode pr
 2 weeks mai python complete ho jae gi
